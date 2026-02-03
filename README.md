@@ -13,6 +13,7 @@ This is the main monorepo with many folders in the root &amp; the navigational /
   * multiplatform TUI client (allowing for ssh) &mdash; ?in modern tvision/turbovision? &mdash; ?DOS-compatible?;
   * all-in-one standalone multiplatform GUI;
   * all-in-one standalone multiplatform TUI (allowing for ssh) &mdash; ?in modern tvision/turbovision? &mdash; ?DOS-compatible?
+  * ?Linux filesystem based on fuse?
 
 are maybe planned.
 
