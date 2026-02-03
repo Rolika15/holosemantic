@@ -7,3 +7,7 @@ Multiple scopes should inclide uglocal scopes (where u := universal, g := global
 Server with API, GUI, TUI (allowing for ssh) are planned.
 
 This is the main monorepo with many folders in the root &amp; the navigational /README.md.
+
+## Project status
+
+  * Inception/Creating docs
